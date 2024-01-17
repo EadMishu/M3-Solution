@@ -189,6 +189,8 @@
         </div>
         <div class="info">
           <a href="#" class="d-block">Alexander Pierce</a>
+          </br>
+          <a href="{{ route('logout') }}" class="d-block">Logout</a>
         </div>
       </div>
 
